@@ -97,11 +97,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lee Joon Ik"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an **DATA** engineer "
+  location         : "Seoul"
+  email            : "holictoweb@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
